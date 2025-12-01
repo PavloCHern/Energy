@@ -195,7 +195,7 @@ main {
 
 .section-about-us {
     background: linear-gradient(rgba(255, 221, 0, 0.7), rgba(255, 221, 0, 0.7)),
-                url(".../gym1.jpg") center/cover no-repeat;
+                url('gym1.jpg') center/cover no-repeat;
     color: black;
     padding: 200px 20px;
 }
@@ -254,6 +254,7 @@ main {
     text-decoration: underline;
     color: #e63946;
 }
+
 
 
 
